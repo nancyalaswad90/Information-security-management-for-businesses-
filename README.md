@@ -87,12 +87,15 @@
 
 
    - السلايدات المعتمدة  :   [قياس امن المعلومات ](https://irbidunversityjo-my.sharepoint.com/:p:/g/personal/202510562_inu_edu_jo/IQBFGUq0EbZKR4r4avRvGGHSARbcpe6Th1fPV89rprkZKz4?e=DO4bwC)
- 
    - الفيديوهات المعتمدة  :
-       -  الفيديو  [الاول]()
+        -  الفيديو  [الاول]()
 
        -  الفيديو  [الثاني]()
 
        -  الفيديو  [الثالث]()
+ 
+------------------
+
+)
 
  .
