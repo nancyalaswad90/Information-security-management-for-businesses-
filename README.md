@@ -32,7 +32,7 @@
  **الفصل الخامس**
 
 
-   - السلايدات المعتمدة  :   [الأسباب الأخرى لانعدام أمن المعلومات ](https://irbidunversityjo-my.sharepoint.com/:p:/g/personal/202510562_inu_edu_jo/IQDclDVjgWL1TLMEaCRERwK0AaVbGvB4_abRazzK8XFWDCU?e=5UE2nE)
+   - السلايدات المعتمدة  :   [الأسباب الأخرى لانعدام أمن المعلومات ](https://irbidunversityjo-my.sharepoint.com/:p:/g/personal/202510562_inu_edu_jo/IQA68Gkf0PKJRIpeak6w3dS5Abap9hLFrVCSDv1iGXkZbqI?e=n4wk6J)
  
    - الفيديوهات المعتمدة  :
           -  الفيديو  [الاول](https://youtu.be/o9tx5igfWw8?si=3V0WedSfhRS6mi3p)
