@@ -37,7 +37,7 @@
    - الفيديوهات المعتمدة  :
           -  الفيديو  [الاول](https://lms.inu.edu.jo/mod/url/view.php?id=75908)
 
-       -  الفيديو  [الثاني](https://lms.inu.edu.jo/mod/url/view.php?id=75909)
+       -  الفيديو  [الثاني](https://youtu.be/obzEySFiEd4?si=RE5CkNAbJDTMbU_4)
          
        -  الفيديو  [الثالث](https://youtu.be/_ChRnxVtPKk?si=hKfU8c9JA3cMYRYB)
        -  
