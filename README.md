@@ -39,7 +39,7 @@
 
        -  الفيديو  [الثاني](https://lms.inu.edu.jo/mod/url/view.php?id=75909)
          
-       -  الفيديو  [الثالث](https://lms.inu.edu.jo/mod/url/view.php?id=75910)
+       -  الفيديو  [الثالث](https://youtu.be/_ChRnxVtPKk?si=hKfU8c9JA3cMYRYB)
        -  
 
 ------------------
