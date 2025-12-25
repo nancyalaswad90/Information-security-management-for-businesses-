@@ -10,16 +10,21 @@
 
    - السلايدات المعتمدة  :   [امن المعلومات - وجهه نظر تاريخية ](https://irbidunversityjo-my.sharepoint.com/:p:/g/personal/202510562_inu_edu_jo/IQDclDVjgWL1TLMEaCRERwK0AaVbGvB4_abRazzK8XFWDCU?e=5UE2nE)
  
-   - الفيديوهات المعتمدة  :
-          -  الفيديو  [الاول]()
+  - الفيديوهات المعتمدة  :
+        -  الفيديو  [الاول]()
 
+       -  الفيديو  [الثاني]()
+
+       -  الفيديو  [الثالث]()
+ 
 ------------------
+
+
 
  **الفصل الثاني**
 
 
    - السلايدات المعتمدة  :   [ أمن المعلومات في المؤسسة ](https://irbidunversityjo-my.sharepoint.com/:p:/g/personal/202510562_inu_edu_jo/IQDm24ADREaZSadLzmtnfWFgAQhUs_PcBWmxd_LO12-WjCc?e=yePZ22)
- 
    - الفيديوهات المعتمدة  :
         -  الفيديو  [الاول]()
 
@@ -28,13 +33,13 @@
        -  الفيديو  [الثالث]()
  
 ------------------
+
 
 
  **الفصل الثالث**
 
 
    - السلايدات المعتمدة  :   [حاكمية أمن المعلومات ](https://irbidunversityjo-my.sharepoint.com/:p:/g/personal/202510562_inu_edu_jo/IQDoouiBUo92Tpv0aglMLGDjAW9L4rbfpnSmD0xnrPeiOws?e=quaaCr)
- 
    - الفيديوهات المعتمدة  :
         -  الفيديو  [الاول]()
 
@@ -43,6 +48,8 @@
        -  الفيديو  [الثالث]()
  
 ------------------
+
+
  **الفصل الرابع**
 
 
@@ -82,4 +89,10 @@
    - السلايدات المعتمدة  :   [قياس امن المعلومات ](https://irbidunversityjo-my.sharepoint.com/:p:/g/personal/202510562_inu_edu_jo/IQBFGUq0EbZKR4r4avRvGGHSARbcpe6Th1fPV89rprkZKz4?e=DO4bwC)
  
    - الفيديوهات المعتمدة  :
-          -  الفيديو  [الاول](
+       -  الفيديو  [الاول]()
+
+       -  الفيديو  [الثاني]()
+
+       -  الفيديو  [الثالث]()
+
+ .
