@@ -18,7 +18,7 @@
  **الفصل الثاني**
 
 
-   - السلايدات المعتمدة  :   [قياس امن المعلومات ](https://irbidunversityjo-my.sharepoint.com/:p:/g/personal/202510562_inu_edu_jo/IQDclDVjgWL1TLMEaCRERwK0AaVbGvB4_abRazzK8XFWDCU?e=5UE2nE)
+   - السلايدات المعتمدة  :   [ أمن المعلومات في المؤسسة ](https://irbidunversityjo-my.sharepoint.com/:p:/g/personal/202510562_inu_edu_jo/IQDm24ADREaZSadLzmtnfWFgAQhUs_PcBWmxd_LO12-WjCc?e=yePZ22)
  
    - الفيديوهات المعتمدة  :
         -  الفيديو  [الاول]()
@@ -30,6 +30,19 @@
 ------------------
 
 
+ **الفصل الثالث**
+
+
+   - السلايدات المعتمدة  :   [ أمن المعلومات في المؤسسة ](https://irbidunversityjo-my.sharepoint.com/:p:/g/personal/202510562_inu_edu_jo/IQDm24ADREaZSadLzmtnfWFgAQhUs_PcBWmxd_LO12-WjCc?e=yePZ22)
+ 
+   - الفيديوهات المعتمدة  :
+        -  الفيديو  [الاول]()
+
+       -  الفيديو  [الثاني]()
+
+       -  الفيديو  [الثالث]()
+ 
+------------------
  **الفصل الرابع**
 
 
