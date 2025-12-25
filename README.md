@@ -21,10 +21,12 @@
    - السلايدات المعتمدة  :   [قياس امن المعلومات ](https://irbidunversityjo-my.sharepoint.com/:p:/g/personal/202510562_inu_edu_jo/IQDclDVjgWL1TLMEaCRERwK0AaVbGvB4_abRazzK8XFWDCU?e=5UE2nE)
  
    - الفيديوهات المعتمدة  :
-          -  الفيديو  [الاول]()
+        -  الفيديو  [الاول]()
 
-       -  الفيديو  [الاول]()
+       -  الفيديو  [الثاني]()
 
+       -  الفيديو  [الثالث]()
+ 
 ------------------
 
  **الفصل الخامس**
@@ -33,9 +35,12 @@
    - السلايدات المعتمدة  :   [قياس امن المعلومات ](https://irbidunversityjo-my.sharepoint.com/:p:/g/personal/202510562_inu_edu_jo/IQDclDVjgWL1TLMEaCRERwK0AaVbGvB4_abRazzK8XFWDCU?e=5UE2nE)
  
    - الفيديوهات المعتمدة  :
-          -  الفيديو  [الاول]()
+          -  الفيديو  [الاول](https://lms.inu.edu.jo/mod/url/view.php?id=75908)
 
-       -  الفيديو  [الاول]()
+       -  الفيديو  [الثاني](https://lms.inu.edu.jo/mod/url/view.php?id=75909)
+         
+       -  الفيديو  [الثالث](https://lms.inu.edu.jo/mod/url/view.php?id=75910)
+       -  
 
 ------------------
 
