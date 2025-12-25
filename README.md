@@ -33,7 +33,7 @@
  **الفصل الثالث**
 
 
-   - السلايدات المعتمدة  :   [ أمن المعلومات في المؤسسة ](https://irbidunversityjo-my.sharepoint.com/:p:/g/personal/202510562_inu_edu_jo/IQDm24ADREaZSadLzmtnfWFgAQhUs_PcBWmxd_LO12-WjCc?e=yePZ22)
+   - السلايدات المعتمدة  :   [حاكمية أمن المعلومات ](https://irbidunversityjo-my.sharepoint.com/:p:/g/personal/202510562_inu_edu_jo/IQDoouiBUo92Tpv0aglMLGDjAW9L4rbfpnSmD0xnrPeiOws?e=quaaCr)
  
    - الفيديوهات المعتمدة  :
         -  الفيديو  [الاول]()
