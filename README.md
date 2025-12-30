@@ -40,7 +40,7 @@
 
    - السلايدات المعتمدة  :   [حاكمية أمن المعلومات ](https://irbidunversityjo-my.sharepoint.com/:p:/g/personal/202510562_inu_edu_jo/IQDoouiBUo92Tpv0aglMLGDjAW9L4rbfpnSmD0xnrPeiOws?e=quaaCr)
    - الفيديوهات المعتمدة  :
-        -  الفيديو  [الاول]()
+        -  الفيديو  [الاول](https://www.youtube.com/watch?v=a8kfeZf5VXk)
 
        -  الفيديو  [الثاني]()
 
